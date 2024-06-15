@@ -225,6 +225,7 @@ Thanks to all the backers and sponsors! Support this project by [becoming a back
 
 ## Copyright and License
 
+Pruebas de subida 
 copyright 2024 creativeLabs Łukasz Holeczek.   
 
  
